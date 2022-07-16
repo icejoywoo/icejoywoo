@@ -2,7 +2,7 @@
 
 Here are some of my personal profile:
 
-- 🔭 I’m currently working on database query engine.
+- 👨‍🏭 I’m currently working on database query engine.
 - 🇨🇳 I’m currently living in [Shenzhen](https://www.google.com/maps/place/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82/@22.5551603,114.0538788,11z/), China
 
 
